@@ -89,7 +89,9 @@ h2{
     margin-left: 70px;
     margin-top: 42px;
 }
-
+.bottom-phgr{
+    text-align: center;
+}
 
 
 #top-left{
@@ -169,9 +171,9 @@ h2{
     height: 150px;
     margin: 20px 20px 20px 20px;
 }
-.bottom-phgr{
+/* .bottom-phgr{
     text-align: center;
-}
+} */
 
 #extra{
     width: 80%;
