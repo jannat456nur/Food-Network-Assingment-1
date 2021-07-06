@@ -60,11 +60,6 @@ h2{
         height: 40px;
         width: 40px;
     }
- .navbar::after{
-     content: '';
-     display: table;
-     clear: both;
- }
 
 /* top section start */
 
